@@ -1,0 +1,19 @@
+[
+{
+  "directory": "D:/Camera_IMU/CamIMUThirdEye/1000realities-allanvariancesampler-9bee58098673 (2)/app/.externalNativeBuild/cmake/debug/x86_64",
+  "command": "C:\\Users\\10410025\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android22 --gcc-toolchain=C:/Users/10410025/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/10410025/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DallanVarianceSampler_EXPORTS -I../../../../../app/libs/bmi160/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -O3 -ffast-math -fPIC   -o CMakeFiles\\allanVarianceSampler.dir\\src\\main\\cpp\\main.cpp.o -c \"D:\\Camera_IMU\\CamIMUThirdEye\\1000realities-allanvariancesampler-9bee58098673 (2)\\app\\src\\main\\cpp\\main.cpp\"",
+  "file": "D:/Camera_IMU/CamIMUThirdEye/1000realities-allanvariancesampler-9bee58098673 (2)/app/src/main/cpp/main.cpp"
+},
+
+{
+  "directory": "D:/Camera_IMU/CamIMUThirdEye/1000realities-allanvariancesampler-9bee58098673 (2)/app/.externalNativeBuild/cmake/debug/x86_64",
+  "command": "C:\\Users\\10410025\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android22 --gcc-toolchain=C:/Users/10410025/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/10410025/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DallanVarianceSampler_EXPORTS -I../../../../../app/libs/bmi160/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -O3 -ffast-math -fPIC   -o CMakeFiles\\allanVarianceSampler.dir\\src\\main\\cpp\\BMI160_IMU.cpp.o -c \"D:\\Camera_IMU\\CamIMUThirdEye\\1000realities-allanvariancesampler-9bee58098673 (2)\\app\\src\\main\\cpp\\BMI160_IMU.cpp\"",
+  "file": "D:/Camera_IMU/CamIMUThirdEye/1000realities-allanvariancesampler-9bee58098673 (2)/app/src/main/cpp/BMI160_IMU.cpp"
+},
+
+{
+  "directory": "D:/Camera_IMU/CamIMUThirdEye/1000realities-allanvariancesampler-9bee58098673 (2)/app/.externalNativeBuild/cmake/debug/x86_64",
+  "command": "C:\\Users\\10410025\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android22 --gcc-toolchain=C:/Users/10410025/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/10410025/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DallanVarianceSampler_EXPORTS -I../../../../../app/libs/bmi160/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\allanVarianceSampler.dir\\libs\\bmi160\\src\\bmi160.c.o   -c \"D:\\Camera_IMU\\CamIMUThirdEye\\1000realities-allanvariancesampler-9bee58098673 (2)\\app\\libs\\bmi160\\src\\bmi160.c\"",
+  "file": "D:/Camera_IMU/CamIMUThirdEye/1000realities-allanvariancesampler-9bee58098673 (2)/app/libs/bmi160/src/bmi160.c"
+}
+]

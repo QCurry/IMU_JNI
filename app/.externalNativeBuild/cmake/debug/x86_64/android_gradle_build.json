@@ -1,0 +1,55 @@
+{
+  "stringTable": {
+    "0": "D:/Camera_IMU/CamIMUThirdEye/1000realities-allanvariancesampler-9bee58098673 (2)/app/.externalNativeBuild/cmake/debug/x86_64",
+    "1": "--target=x86_64-none-linux-android22 --gcc-toolchain=C:/Users/10410025/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/10410025/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DallanVarianceSampler_EXPORTS -I../../../../../app/libs/bmi160/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -O3 -ffast-math -fPIC",
+    "2": "--target=x86_64-none-linux-android22 --gcc-toolchain=C:/Users/10410025/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/10410025/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DallanVarianceSampler_EXPORTS -I../../../../../app/libs/bmi160/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\10410025\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "D:\\Camera_IMU\\CamIMUThirdEye\\1000realities-allanvariancesampler-9bee58098673 (2)\\app\\CMakeLists.txt",
+    "C:\\Users\\10410025\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\10410025\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"D:\\Camera_IMU\\CamIMUThirdEye\\1000realities-allanvariancesampler-9bee58098673 (2)\\app\\.externalNativeBuild\\cmake\\debug\\x86_64\" --target clean"
+  ],
+  "libraries": {
+    "allanVarianceSampler-Debug-x86_64": {
+      "buildCommand": "C:\\Users\\10410025\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"D:\\Camera_IMU\\CamIMUThirdEye\\1000realities-allanvariancesampler-9bee58098673 (2)\\app\\.externalNativeBuild\\cmake\\debug\\x86_64\" --target allanVarianceSampler",
+      "buildType": "debug",
+      "toolchain": "1394289408",
+      "abi": "x86_64",
+      "artifactName": "allanVarianceSampler",
+      "files": [
+        {
+          "src": "D:\\Camera_IMU\\CamIMUThirdEye\\1000realities-allanvariancesampler-9bee58098673 (2)\\app\\src\\main\\cpp\\main.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Camera_IMU\\CamIMUThirdEye\\1000realities-allanvariancesampler-9bee58098673 (2)\\app\\src\\main\\cpp\\BMI160_IMU.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Camera_IMU\\CamIMUThirdEye\\1000realities-allanvariancesampler-9bee58098673 (2)\\app\\libs\\bmi160\\src\\bmi160.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\Camera_IMU\\CamIMUThirdEye\\1000realities-allanvariancesampler-9bee58098673 (2)\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\liballanVarianceSampler.so"
+    }
+  },
+  "toolchains": {
+    "1394289408": {
+      "cCompilerExecutable": "C:\\Users\\10410025\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\10410025\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

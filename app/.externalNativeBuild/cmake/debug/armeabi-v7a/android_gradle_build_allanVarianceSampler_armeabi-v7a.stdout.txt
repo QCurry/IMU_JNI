@@ -1,0 +1,4 @@
+[1/4] Building CXX object CMakeFiles/allanVarianceSampler.dir/src/main/cpp/BMI160_IMU.cpp.o
+[2/4] Building C object CMakeFiles/allanVarianceSampler.dir/libs/bmi160/src/bmi160.c.o
+[3/4] Building CXX object CMakeFiles/allanVarianceSampler.dir/src/main/cpp/main.cpp.o
+[4/4] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\debug\obj\armeabi-v7a\liballanVarianceSampler.so

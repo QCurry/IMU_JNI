@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "C:\\Users\\10410025\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "D:\\Camera_IMU\\CamIMUThirdEye\\1000realities-allanvariancesampler-9bee58098673 (2)\\app\\CMakeLists.txt",
+    "C:\\Users\\10410025\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\10410025\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"D:\\Camera_IMU\\CamIMUThirdEye\\1000realities-allanvariancesampler-9bee58098673 (2)\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a\" --target clean"
+  ],
+  "libraries": {
+    "allanVarianceSampler-Debug-armeabi-v7a": {
+      "artifactName": "allanVarianceSampler",
+      "buildCommand": "C:\\Users\\10410025\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"D:\\Camera_IMU\\CamIMUThirdEye\\1000realities-allanvariancesampler-9bee58098673 (2)\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a\" --target allanVarianceSampler",
+      "abi": "armeabi-v7a",
+      "output": "D:\\Camera_IMU\\CamIMUThirdEye\\1000realities-allanvariancesampler-9bee58098673 (2)\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\liballanVarianceSampler.so"
+    }
+  }
+}

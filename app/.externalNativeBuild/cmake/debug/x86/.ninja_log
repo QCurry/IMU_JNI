@@ -1,0 +1,15 @@
+# ninja log v5
+2	11878	591252921	CMakeFiles/allanVarianceSampler.dir/src/main/cpp/BMI160_IMU.cpp.o	9c94fb47d08e4278
+4025	15261	591252924	CMakeFiles/allanVarianceSampler.dir/libs/bmi160/src/bmi160.c.o	f39082420e317d73
+1765	15498	591252924	CMakeFiles/allanVarianceSampler.dir/src/main/cpp/main.cpp.o	c8284e2289a7d92
+15498	22526	591252933	../../../../build/intermediates/cmake/debug/obj/x86/liballanVarianceSampler.so	3e1299aae7f8cf29
+9	10128	591699146	CMakeFiles/allanVarianceSampler.dir/src/main/cpp/BMI160_IMU.cpp.o	9c94fb47d08e4278
+4145	11731	591699148	CMakeFiles/allanVarianceSampler.dir/libs/bmi160/src/bmi160.c.o	f39082420e317d73
+2244	12453	591699149	CMakeFiles/allanVarianceSampler.dir/src/main/cpp/main.cpp.o	c8284e2289a7d92
+12454	16261	591699154	../../../../build/intermediates/cmake/debug/obj/x86/liballanVarianceSampler.so	3e1299aae7f8cf29
+8	6509	593582794	CMakeFiles/allanVarianceSampler.dir/src/main/cpp/BMI160_IMU.cpp.o	9c94fb47d08e4278
+6510	10214	593582799	../../../../build/intermediates/cmake/debug/obj/x86/liballanVarianceSampler.so	3e1299aae7f8cf29
+8	10504	596525319	CMakeFiles/allanVarianceSampler.dir/src/main/cpp/BMI160_IMU.cpp.o	9c94fb47d08e4278
+2706	12583	596525321	CMakeFiles/allanVarianceSampler.dir/libs/bmi160/src/bmi160.c.o	f39082420e317d73
+1310	13292	596525322	CMakeFiles/allanVarianceSampler.dir/src/main/cpp/main.cpp.o	c8284e2289a7d92
+13293	17819	596525328	../../../../build/intermediates/cmake/debug/obj/x86/liballanVarianceSampler.so	3e1299aae7f8cf29

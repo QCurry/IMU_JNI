@@ -1,0 +1,8 @@
+Executable : C:\Users\10410025\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+--build
+D:\Camera_IMU\CamIMUThirdEye\1000realities-allanvariancesampler-9bee58098673 (2)\app\.externalNativeBuild\cmake\debug\x86
+--target
+allanVarianceSampler
+jvmArgs : 
+

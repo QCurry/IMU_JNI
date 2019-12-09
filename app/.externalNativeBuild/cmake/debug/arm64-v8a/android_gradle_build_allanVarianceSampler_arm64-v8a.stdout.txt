@@ -1,0 +1,2 @@
+[1/2] Building CXX object CMakeFiles/allanVarianceSampler.dir/src/main/cpp/BMI160_IMU.cpp.o
+[2/2] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\debug\obj\arm64-v8a\liballanVarianceSampler.so
